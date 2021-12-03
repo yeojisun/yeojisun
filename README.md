@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+✨ My Favorite Pokemon ✨
+
+[![rolling_bulbasaur](https://emoji.gg/assets/emoji/2397-rolling-bulbasaur.gif)](https://emoji.gg/emoji/2397-rolling-bulbasaur)
+
 ✨ My Technology Stack ✨
+
 
 ![Awesome](https://camo.githubusercontent.com/b07f3a8b7bca33795a1f6aa27a53acca9f23620bc5f9dc531253594d2299bd21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176617363726970742d726564)
 ![Awesome](https://camo.githubusercontent.com/4b167306f139b376a8fe1c23a56469882163d9b6f1a6c76640eb9e48d9a100d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d68746d6c2d626c7565)
