@@ -4,6 +4,9 @@
 
 [![rolling_bulbasaur](https://emoji.gg/assets/emoji/2397-rolling-bulbasaur.gif)](https://emoji.gg/emoji/2397-rolling-bulbasaur)
 
+✨ My Blog About To Become Famous ✨
+https://yeoossi.tistory.com/
+
 ✨ My Technology Stack ✨
 
 
