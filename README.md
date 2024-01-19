@@ -13,17 +13,35 @@ https://yeoossi.tistory.com/
 ✨ My Technology Stack ✨
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Typescript-F808080?style=flat-square&logo=Typescript&logoColor=white" alt="Typescript" />
-  <img src="https://img.shields.io/badge/Vue-green?style=flat-square&logo=Vue&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Mobx-red?style=flat-square&logo=Mobx&logoColor=white" alt="Mobx" />
-  <img src="https://img.shields.io/badge/Redux-red?style=flat-square&logo=Redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/jest-red?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Nextjs-red?style=flat-square&logo=Nextjs&logoColor=white" alt="Next.js" />
-</p>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat">
+  <br>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br>
 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeojisun)](https://github.com/anuraghazra/github-readme-stats)
 
 
