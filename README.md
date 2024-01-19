@@ -10,6 +10,8 @@
 
 https://yeoossi.tistory.com/
 
+✨ My Technology Stack ✨
+
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat">
@@ -42,7 +44,7 @@ https://yeoossi.tistory.com/
   <br>
   
   </p>
-✨ My Technology Stack ✨
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeojisun)](https://github.com/anuraghazra/github-readme-stats)
 
