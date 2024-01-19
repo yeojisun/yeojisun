@@ -12,18 +12,17 @@ https://yeoossi.tistory.com/
 
 ✨ My Technology Stack ✨
 
-
-![image]([https://camo.githubusercontent.com/9872a326c26e0fac6405b3e5a3a87c6b9d5c3e10838ec8595b3decaa9cd093b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666c61742d737175617265266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465])
-![Awesome](https://camo.githubusercontent.com/4b167306f139b376a8fe1c23a56469882163d9b6f1a6c76640eb9e48d9a100d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d68746d6c2d626c7565)
-![Awesome](https://camo.githubusercontent.com/837ab929b485bec501d78aae67baad3aa0b2206d5c903fbcb3db028b09fb1300/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6373732d6f72616e6765)
-
-![Awesome](https://camo.githubusercontent.com/acd24fae523f82eb9873f2404b83179a6e553a4d6ea6336e239f7cac2609aba8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3334643265623f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
-![Awesome](https://camo.githubusercontent.com/e1158aa1510d2ff201f94fb15831ae9585b23668e4888a98033d98a036eaa6d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5655452d3030383030302e7376673f267374796c653d666c6174266c6f676f3d7675652e6a73266c6f676f436f6c6f723d7768697465)
-![Awesome](https://camo.githubusercontent.com/dd83448c89784947a4fe30a1730f2294fab894388f69bbf2fc65ad548170dcec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c75747465722d3145393046463f7374796c653d666c61742d737175617265266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465)
-![Awesome](https://camo.githubusercontent.com/6a5aacf3392820ac9711bbe9de3147d0e05f8eb90f99c2727e340c4d00f9ba08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6c616e672d677261793f7374796c653d666c61742d737175617265266c6f676f3d476f)
-![Awesome](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
-![Awesome](https://camo.githubusercontent.com/11ff6d6c0de1853bfbebe9b1230e4f48ec9aa7ae46800301933a22d78371149a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332d626c61636b3f6c6f676f3d632d7368617270)
-
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Typescript-F808080?style=flat-square&logo=Typescript&logoColor=white" alt="Typescript" />
+  <img src="https://img.shields.io/badge/Vue-green?style=flat-square&logo=Vue&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Mobx-red?style=flat-square&logo=Mobx&logoColor=white" alt="Mobx" />
+  <img src="https://img.shields.io/badge/Redux-red?style=flat-square&logo=Redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/jest-red?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Nextjs-red?style=flat-square&logo=Nextjs&logoColor=white" alt="Next.js" />
+</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeojisun)](https://github.com/anuraghazra/github-readme-stats)
 
